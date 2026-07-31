@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Logo placeholder Gulo Abang Kito">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF8E7"/>
+      <stop offset="1" stop-color="#E8D3A9"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="60" fill="url(#g)"/>
+  <circle cx="60" cy="60" r="46" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <text x="60" y="56" text-anchor="middle" font-family="Poppins, sans-serif" font-size="26" font-weight="700" fill="#6D4C41">GAK</text>
+  <text x="60" y="76" text-anchor="middle" font-family="Poppins, sans-serif" font-size="10" letter-spacing="2" fill="#4CAF50">GULA AREN</text>
+</svg>
